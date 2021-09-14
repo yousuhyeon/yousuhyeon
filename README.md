@@ -1,7 +1,12 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=CCFF99&height=300&section=header&text=SuhyeonYou&fontSize=90&fontColor=606060)
+# YouSuhyeon | ###유수현
+### 👋Hi there I'm Suhyeon
 
-### Hi there 👋
+### ▎Skills
+<span><img src="http://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=ffffff"></span>
+<span><img src="http://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=black"></span>
+ 
+### ▎Contact me
 
 <!--
 **yousuhyeon/yousuhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
