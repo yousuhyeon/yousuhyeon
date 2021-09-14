@@ -1,5 +1,4 @@
 
-# YouSuhyeon | ###유수현
 ### 👋Hi there I'm Suhyeon
 
 ### ▎Skills
